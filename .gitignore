@@ -1,0 +1,15 @@
+# Root .gitignore
+logs/
+*.log
+*.class
+*.jar
+*.war
+*.iml
+target/
+.idea/
+.DS_Store
+.env
+node_modules/
+.vscode/
+*.swp
+*.swo
